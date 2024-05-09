@@ -25,22 +25,6 @@ async function connectToMongoDB() {
 }
 connectToMongoDB();
 
-// // API Endpoint to save score
-// app.post('/api/score', async (req, res) => {
-//   const { score } = req.body;
-//   const db = client.db('users');
-//   const scoresCollection = db.collection('scores');
-  
-//   try {
-//     // Save score to MongoDB
-//     await scoresCollection.insertOne({ score });
-//     res.status(201).json({ message: 'Score saved successfully' });
-//   } catch (err) {
-//     console.error('Error saving score:', err);
-//     res.status(500).json({ error: 'Internal server error' });
-//   }
-// });
-
 app.post('/api/score', async (req, res) => {
   const { username, score } = req.body; // Extract username and score from request body
   const db = client.db('users');
