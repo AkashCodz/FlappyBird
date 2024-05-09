@@ -69,6 +69,19 @@ Start the MongoDB server if running locally.
 
 Run the live Server.
 
+
+# Screenshots
+
+
+## Username and Discount
+![FlappyBird (1) (3)](https://github.com/AkashCodz/FlappyBird/assets/101062599/56a994a6-73ad-49dc-a97d-5c61f2eab568)
+
+
+
+## Database MongoDB
+![Screenshot (616)](https://github.com/AkashCodz/FlappyBird/assets/101062599/58207373-ba34-45f1-b5fb-44cabe16a242)
+
+
 ## Contributors
 
 - [Akash Sharma](https://github.com/AkashCodz)
