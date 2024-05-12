@@ -9,6 +9,7 @@ This is a simple Flappy Bird game implemented using HTML, CSS, JavaScript, and C
 - User authentication system to save scores to a MongoDB database.
 - Discount feature available for users who achieve a certain score threshold.
 - API endpoints implemented using Node.js and Express.js for integrating with the database.
+- Send Score to Friend using Share Button to Whatsapp.
 
 ## Setup Instructions
 
@@ -80,6 +81,9 @@ Run the live Server.
 
 ## Database MongoDB
 ![Screenshot (616)](https://github.com/AkashCodz/FlappyBird/assets/101062599/58207373-ba34-45f1-b5fb-44cabe16a242)
+
+## Whatsapp Share
+![Share Button](https://github.com/AkashCodz/FlappyBird/assets/101062599/fe79baf5-2a16-4f16-bfb1-0cf55955413c)
 
 
 ## Contributors
